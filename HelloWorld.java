@@ -4,6 +4,7 @@
  */
 public class HelloWorld {
   public static void main(String[] args) {
-    System.out.println("My name is Deeksha");
+    System.out.println("My name is Nihareeka!");
+    System.out.println("Welcome to Jenkins!");
   }
 }
